@@ -8,7 +8,7 @@ Some of my projects include:
 
 - APIs
     - [Fanfiction-Finder-API](https://github.com/arzkar/Fanfiction-Finder-API): An API to scrape both [ffnet](https://www.fanfiction.net/) and [ao3](https://archiveofourown.org/) fanfiction metadata
-    - [ao3-api-js](https://github.com/arzkar/ao3-api-js): An API to scrape [ao3](https://archiveofourown.org/) fanfiction metadata
+    - [ao3-api-js](https://github.com/arzkar/ao3-api-js):  An API to scrape [archiveofourown.org](https://archiveofourown.org/) fanfiction works metadata
     - [Product-Logistics-API](https://github.com/arzkar/Product-Logistics-API): A basic Product Logistics API which can be used to track the transactions of different products and its delivery to different cities
 - CLIs
     - [pyenv-win-venv](https://github.com/pyenv-win/pyenv-win-venv): A CLI to manage virtual envs with pyenv-win
