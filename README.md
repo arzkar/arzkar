@@ -19,3 +19,7 @@ Some of my projects include:
     - [ao3-cli](https://github.com/arzkar/ao3-cli): A CLI to download from archiveofourown.org using their built-in download option
 - [Hermes-GUI](https://github.com/arzkar/Hermes-GUI): A GUI based on my Quote Finder bot using PyQt
 - A bunch of Discord bots which can found in this org: [Bot-Devel](https://github.com/Bot-Devel)
+<br>
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=arzkar&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Arbaaz's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arzkar&layout=compact&theme=radical&hide_border=true&hide=jupyter%20notebook" /></a> |
+| ------------- | ------------- |
