@@ -21,5 +21,5 @@ Some of my projects include:
 - A bunch of Discord bots which can found in this org: [Bot-Devel](https://github.com/Bot-Devel)
 <br>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=arzkar&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Arbaaz's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arzkar&layout=compact&theme=radical&hide_border=true&hide=jupyter%20notebook" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=arzkar&include_orgs=true&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Arbaaz's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=arzkar&include_orgs=true&layout=compact&theme=radical&hide_border=true&hide=jupyter%20notebook" /></a> |
 | ------------- | ------------- |
