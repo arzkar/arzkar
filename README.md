@@ -1,12 +1,11 @@
-## Hi there
+## Hi there, I'm Arbaaz Laskar
 
-[<img align="left" alt="arbaazlaskar | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
-[<img align="left" alt="arzkar.dev | Gmail" width="22px" src="./gmail.svg" />][gmail]
+[<img align="left" alt="arbaaz-laskar | LinkedIn" width="22px" src="https://raw.githubusercontent.com/arzkar/arzkar/main/linkedin.svg" />](https://linkedin.com/in/arbaaz-laskar)
+[<img align="left" alt="arzkar.dev | Gmail" width="22px" src="https://raw.githubusercontent.com/arzkar/arzkar/main/gmail.svg" />](mailto:arzkar.dev@gmail.com)
+<br><br>
 I'm a software developer creating fun open source projects during my free time!<br>
-I have experience with Python, JavaScript, C#, C++, Rust & Java<br>
+I have experience with Python, JavaScript, C#, C++, Rust & Java.
 <br>
-<br>
-
 ### Some of my projects include:
 
 - APIs
