@@ -8,6 +8,8 @@ I have experience with Python, JavaScript, C#, C++, Rust & Java.
 <br>
 ### Some of my projects include:
 
+- Extensions
+    - [VSNotes](https://github.com/arzkar/VSNotes): A tool to organize notes by workspaces. 
 - APIs
     - [Fanfiction-Finder-API](https://github.com/arzkar/Fanfiction-Finder-API): An API to scrape both [ffnet](https://www.fanfiction.net/) and [ao3](https://archiveofourown.org/) fanfiction metadata
     - [ao3-api-js](https://github.com/arzkar/ao3-api-js):  An API to scrape [archiveofourown.org](https://archiveofourown.org/) fanfiction works metadata
