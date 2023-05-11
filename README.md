@@ -1,8 +1,8 @@
 ## Hi there, I'm Arbaaz Laskar
 
-[<img align="left" alt="arbaaz-laskar | LinkedIn" width="22px" src="https://raw.githubusercontent.com/arzkar/arzkar/main/linkedin.svg" />](https://linkedin.com/in/arbaaz-laskar)
-[<img align="left" alt="arzkar.dev | Gmail" width="22px" src="https://raw.githubusercontent.com/arzkar/arzkar/main/gmail.svg" />](mailto:arzkar.dev@gmail.com)
-<br><br>
+[![G Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arzkar.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arbaaz-laskar)
+
 I'm a software developer creating fun open source projects during my free time!<br>
 I have experience with Python, JavaScript, C#, C++, Rust & Java.
 <br>
