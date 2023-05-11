@@ -20,6 +20,7 @@ I have experience with Python, JavaScript, C#, C++, Rust & Java.
     - Contributions to [fichub.net](https://fichub.net/) project:
         - [fichub-cli](https://github.com/FicHub/fichub-cli): A CLI for the fichub.net API 
         - [fichub-cli-metadata](https://github.com/fichub-cli-contrib/fichub-cli-metadata): A metadata plugin for the fichub-cli to fetching Metadata from the Fichub API
+        - [hermes](https://github.com/FanFicDev/hermes/): web fiction (fanfic and web serial) browser, reader, library, etc
     - [ao3-cli](https://github.com/arzkar/ao3-cli): A CLI to download from archiveofourown.org using their built-in download option
 - [Hermes-GUI](https://github.com/arzkar/Hermes-GUI): A GUI based on my Quote Finder bot using PyQt
 - A bunch of Discord bots which can found in this org: [Bot-Devel](https://github.com/Bot-Devel)
