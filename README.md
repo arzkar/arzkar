@@ -87,7 +87,7 @@ I have experience with Python, JavaScript, C#, C++, Rust & Java.
     
 </details>
 
-### GitHub Stats
-
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=arzkar&include_orgs=true&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=great-gatsby&hide_border=true" alt="Arbaaz's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=arzkar&include_orgs=true&layout=compact&theme=great-gatsby&hide_border=true&hide=jupyter%20notebook" /></a> |
+<details><summary>Github Metrics</summary>
+ | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=arzkar&include_orgs=true&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=great-gatsby&hide_border=true" alt="Arbaaz's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=arzkar&include_orgs=true&layout=compact&theme=great-gatsby&hide_border=true&hide=jupyter%20notebook" /></a> |
 | ------------- | ------------- |
+</details>
