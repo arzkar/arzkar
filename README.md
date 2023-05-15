@@ -94,33 +94,33 @@ I have experience with Python, JavaScript, C#, C++, Rust & Java.
 
 <details><summary>Github Metrics</summary>
 <a href="https://github.com/arzkar">
-  <img align="top" width="50%" src="./.metrics/header.svg" />
+  <img align="top" width="50%" src="./metrics/header.svg" />
 </a>
 <br/>
 <a href="https://github.com/arzkar">
-  <img align="top" width="50%" src="./.metrics/repositories.svg" />
+  <img align="top" width="50%" src="./metrics/repositories.svg" />
 </a>
 <a href="https://github.com/arzkar">
-  <img align="top" width="49%" src="./.metrics/acti_comm.svg" />
-</a>
-
-<a href="https://github.com/arzkar">
-  <img align="top" width="50%" src="./.metrics/iso_calender.svg" />
+  <img align="top" width="49%" src="./metrics/acti_comm.svg" />
 </a>
 
 <a href="https://github.com/arzkar">
-    <img align="top" width="49%" src="./.metrics/langs_used.svg" />
+  <img align="top" width="50%" src="./metrics/iso_calender.svg" />
 </a>
 
 <a href="https://github.com/arzkar">
-    <img align="top" width="49%" src="./.metrics/repositories.svg" />
+    <img align="top" width="49%" src="./metrics/langs_used.svg" />
 </a>
 
 <a href="https://github.com/arzkar">
-    <img align="top" width="49%" src="./.metrics/notable_contributions.svg" />
+    <img align="top" width="49%" src="./metrics/repositories.svg" />
 </a>
 
 <a href="https://github.com/arzkar">
-    <img align="top" width="49%" src="./.metrics/achievements.svg" />
+    <img align="top" width="49%" src="./metrics/notable_contributions.svg" />
+</a>
+
+<a href="https://github.com/arzkar">
+    <img align="top" width="49%" src="./metrics/achievements.svg" />
 </a>
 </details>
