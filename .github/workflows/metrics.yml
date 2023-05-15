@@ -38,15 +38,6 @@ jobs:
           base: header
           config_timezone: ${{ secrets.USER_TIMEZONE }}
 
-      - name: lines
-        uses: arzkar/metrics@latest
-        with:
-          filename: .metrics/lines-of-code.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
-          base: "repositories"
-          plugin_lines: yes
-
       - name: acti_comm
         uses: arzkar/metrics@latest
         with:
@@ -112,4 +103,19 @@ jobs:
           user: arzkar
           template: classic
           base: repositories
+          config_timezone: ${{ secrets.USER_TIMEZONE }}
+
+      - name: Notable Contributions
+        uses: lowlighter/metrics@latest
+        with:
+          filename: .metrics/notable_contributions.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          plugin_notable: yes
+          plugin_notable_indepth: yes
+          plugin_notable_repositories: yes
+
+          # Options
+          user: arzkar
+          template: classic
+          base: ""
           config_timezone: ${{ secrets.USER_TIMEZONE }}

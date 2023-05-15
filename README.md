@@ -117,6 +117,10 @@ I have experience with Python, JavaScript, C#, C++, Rust & Java.
 </a>
 
 <a href="https://github.com/arzkar">
+    <img align="top" width="49%" src="./.metrics/notable_contributions.svg" />
+</a>
+
+<a href="https://github.com/arzkar">
     <img align="top" width="49%" src="./.metrics/achievements.svg" />
 </a>
 </details>
