@@ -7,13 +7,14 @@
 I'm a software developer creating fun open source projects during my free time!<br>
 I have experience with Python, JavaScript, C#, C++, Rust & Java.
 <br>
+
 <details><summary>Projects Summary</summary>
     
  - Extensions
     
     - [VSNotes](https://github.com/arzkar/VSNotes): A tool to organize notes by workspaces
     
-- Library
+- Libraries
     
     - [fetch-ao3](https://github.com/arzkar/fetch-ao3): A library to fetch data from ArchiveOfOurOwn.org
     
@@ -62,17 +63,21 @@ I have experience with Python, JavaScript, C#, C++, Rust & Java.
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 
 #### Frameworks
+
 ##### Python
+
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
 ![Flask](http://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
 ![FastAPI](http://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
 ##### JavaScript
+
 ![ReactJS](https://img.shields.io/badge/-ReactJS-51CBF2?style=flat&logo=react&logoColor=white)
 ![NodeJS](http://img.shields.io/badge/-NodeJS-6EBF20?style=flat&logo=node.js&logoColor=white)
 ![Express](http://img.shields.io/badge/-Express-black?style=flat&logo=express&logoColor=white)
 
 #### Databases:
+
 ![PostgreSQL](http://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](http://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](http://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
@@ -84,10 +89,34 @@ I have experience with Python, JavaScript, C#, C++, Rust & Java.
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
-    
+
 </details>
 
 <details><summary>Github Metrics</summary>
- | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=arzkar&include_orgs=true&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=great-gatsby&hide_border=true" alt="Arbaaz's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=arzkar&include_orgs=true&layout=compact&theme=great-gatsby&hide_border=true&hide=jupyter%20notebook" /></a> |
-| ------------- | ------------- |
+<a href="https://github.com/arzkar">
+  <img align="top" width="50%" src="./.metrics/header.svg" />
+</a>
+<br/>
+<a href="https://github.com/arzkar">
+  <img align="top" width="50%" src="./.metrics/repositories.svg" />
+</a>
+<a href="https://github.com/arzkar">
+  <img align="top" width="49%" src="./.metrics/acti_comm.svg" />
+</a>
+
+<a href="https://github.com/arzkar">
+  <img align="top" width="50%" src="./.metrics/iso_calender.svg" />
+</a>
+
+<a href="https://github.com/arzkar">
+    <img align="top" width="49%" src="./.metrics/langs_used.svg" />
+</a>
+
+<a href="https://github.com/arzkar">
+    <img align="top" width="49%" src="./.metrics/traffic.svg" />
+</a>
+
+<a href="https://github.com/arzkar">
+    <img align="top" width="49%" src="./.metrics/achievements.svg" />
+</a>
 </details>
