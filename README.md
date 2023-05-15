@@ -113,7 +113,7 @@ I have experience with Python, JavaScript, C#, C++, Rust & Java.
 </a>
 
 <a href="https://github.com/arzkar">
-    <img align="top" width="49%" src="./.metrics/traffic.svg" />
+    <img align="top" width="49%" src="./.metrics/repositories.svg" />
 </a>
 
 <a href="https://github.com/arzkar">
