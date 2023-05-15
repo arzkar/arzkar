@@ -16,6 +16,7 @@
   I have experience with Python, JavaScript, C#, C++, Rust &amp; Java.
 </p>
 
+<p>
 <details>
   <summary>Projects Summary</summary>
 
@@ -45,7 +46,9 @@
           <ul>
             <li><a href="https://github.com/FicHub/fichub-cli">fichub-cli</a>: A CLI for the fichub.net
 </details>
+</p>
 
+<p>
 <details><summary>My Stack</summary>
  
 <h4>Languages</h4>
@@ -83,7 +86,9 @@
 <img src="https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white" alt="Android Studio">
 
 </details>
+</p>
 
+<p>
 <details><summary>Github Metrics</summary>
 <a href="https://github.com/arzkar">
   <img align="top" width="50%" src="https://arzkar.github.io/arzkar/metrics/header.svg" />
@@ -112,3 +117,4 @@
     <img align="top" width="49%" src="https://arzkar.github.io/arzkar/metrics/achievements.svg" />
 </a>
 </details>
+</p>
