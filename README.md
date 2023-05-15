@@ -105,10 +105,6 @@
 </a>
 
 <a href="https://github.com/arzkar">
-    <img align="top" width="49%" src="https://arzkar.github.io/arzkar/metrics/repositories.svg" />
-</a>
-
-<a href="https://github.com/arzkar">
     <img align="top" width="49%" src="https://arzkar.github.io/arzkar/metrics/notable_contributions.svg" />
 </a>
 
@@ -116,4 +112,3 @@
     <img align="top" width="49%" src="https://arzkar.github.io/arzkar/metrics/achievements.svg" />
 </a>
 </details>
-
