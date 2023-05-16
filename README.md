@@ -55,9 +55,24 @@
                 <li>
                   <a href="https://github.com/FicHub/fichub-cli">fichub-cli</a>: A CLI for the fichub.net
                 </li>
+                <li>
+                  <a href="https://github.com/fichub-cli-contrib/ fichub-cli-metadata">fichub-cli-metadata</a>: A metadata plugin for the fichub-cli to fetching Metadata from the Fichub API
+                </li>
+                <li>
+                  <a href="https://github.com/FanFicDev/hermes/">hermes</a>: web fiction (fanfic and web serial) browser, reader, library, etc
+                </li>
               </ul>
             </li>
+            <li>
+            <a href="https://github.com/arzkar/ao3-cli">ao3-cli</a>: A CLI to download from archiveofourown.org using their built-in download option
+            </li>
           </ul>
+        </li>
+        <li>
+          <a href="https://github.com/arzkar/Hermes-GUI">Hermes-GUI</a>: A GUI based on my Quote Finder bot using PyQt
+        </li>
+        <li>
+          <a href="https://github.com/Bot-Devel">Bot-Devel</a>: A bunch of Discord bots written in Python
         </li>
       </ul>
     </details>
