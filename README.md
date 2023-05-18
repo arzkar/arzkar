@@ -56,7 +56,7 @@
                   <a href="https://github.com/FicHub/fichub-cli">fichub-cli</a>: A CLI for the fichub.net
                 </li>
                 <li>
-                  <a href="https://github.com/fichub-cli-contrib/ fichub-cli-metadata">fichub-cli-metadata</a>: A metadata plugin for the fichub-cli to fetching Metadata from the Fichub API
+                  <a href="https://github.com/fichub-cli-contrib/fichub-cli-metadata">fichub-cli-metadata</a>: A metadata plugin for the fichub-cli to fetching Metadata from the Fichub API
                 </li>
                 <li>
                   <a href="https://github.com/FanFicDev/hermes/">hermes</a>: web fiction (fanfic and web serial) browser, reader, library, etc
