@@ -45,6 +45,9 @@
           </ul>
         </li>
         <li>CLIs <ul>
+           <li>
+              <a href="https://github.com/arzkar/git-utils">git-utils</a>: A CLI for performing various bulk operations on git repositories
+            </li>
             <li>
               <a href="https://github.com/pyenv-win/pyenv-win-venv">pyenv-win-venv</a>: A CLI to manage virtual envs with pyenv-win
             </li>
