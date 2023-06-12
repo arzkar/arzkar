@@ -15,7 +15,7 @@
         <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
       </a>
     </p>
-    <p>I'm a software developer creating fun open source projects during my free time! <br> I have experience with Python, JavaScript, Go, C#, C++, Rust &amp; Java. </p>
+    <p>I'm a software developer creating fun open source projects during my free time! <br> I have experience with Python, JavaScript, TypeScript, Go, C#, C++ &amp; Rust. </p>
     <p>
     <details>
       <summary>Projects Summary</summary>
