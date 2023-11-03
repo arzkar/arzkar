@@ -78,7 +78,17 @@
           <a href="https://github.com/arzkar/Hermes-GUI">Hermes-GUI</a>: A GUI based on my Quote Finder bot using PyQt
         </li>
         <li>
-          <a href="https://github.com/Bot-Devel">Bot-Devel</a>: A bunch of Discord bots written in Python
+          <a href="https://github.com/Bot-Devel">Bot-Devel</a>: A bunch of Discord bots written in Python <ul>
+          <li>
+            <a href="https://github.com/Bot-Devel/Fanfiction-Finder">Fanfiction-Finder</a>: A fanfiction metadata finder bot for all the fanfiction sites supported by Fichub.net
+          </li>
+          <li>
+            <a href="https://github.com/Bot-Devel/Quote-Finder">Quote-Finder</a>: A discord bot which searches a text file using RegEx to find a quote from a book
+          </li>
+          <li>
+            <a href="https://github.com/Bot-Devel/The-Discord-Archivist">The-Discord-Archivist</a>: A discord bot to archive a channel and convert it into an epub file. It also includes image files such as png & jpeg.
+          </li>
+          </ul>
         </li>
       </ul>
     </details>
