@@ -15,7 +15,12 @@
         <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
       </a>
     </p>
-    <p>I'm a software developer creating fun open source projects during my free time! <br> I have experience with Python, JavaScript, TypeScript, Go, C#, C++ &amp; Rust. </p>
+    <p>I'm a software developer creating fun open source projects during my free time! 
+      <br> I have experience with Python, JavaScript, TypeScript, Go, C#, C++ &amp; Rust.
+      <br><br>If you want to support me you can consider:<br>
+      
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/arzkar)
+    </p>
     <p>
     <details>
       <summary>Projects Summary</summary>
