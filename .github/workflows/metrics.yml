@@ -101,6 +101,9 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           # GITHUB_TOKEN is a special auto-generated token used for commits
           committer_token: ${{ secrets.GITHUB_TOKEN }}
+          plugin_repositories: yes
+          plugin_repositories_forks: yes
+          plugin_repositories_affiliations: ""
 
           # Options
           user: arzkar
