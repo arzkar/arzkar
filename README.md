@@ -25,6 +25,12 @@
     <details>
       <summary>Projects Summary</summary>
       <ul>
+      <li>Apps <ul>
+            <li>
+              <a href="https://github.com/arzkar/todo-app">todo-app</a>: A todo app built using NextJS, NodeJS, MySQL
+            </li>
+          </ul>
+        </li>
         <li>Extensions <ul>
             <li>
               <a href="https://github.com/arzkar/VSNotes">VSNotes</a>: A tool to organize notes by workspaces
